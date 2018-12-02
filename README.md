@@ -1,2 +1,2 @@
 # Food-Corner
-Responsive website
+First Responsive Single Page Design.
